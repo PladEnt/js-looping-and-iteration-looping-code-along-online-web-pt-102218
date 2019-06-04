@@ -7,7 +7,7 @@ function writeCards(names, evint){
   return names;
 }
 
-function 
-while (countup < 10) {
+function countdown(num)
+while (countup > 0) {
   console.log(countup++);
 }
