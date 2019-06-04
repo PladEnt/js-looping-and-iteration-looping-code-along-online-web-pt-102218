@@ -8,7 +8,7 @@ function writeCards(names, evint){
 }
 
 function countdown(num){
-  while (num > 0) {
+  while (num > -1) {
     console.log(num);
     num=num-1
   }
