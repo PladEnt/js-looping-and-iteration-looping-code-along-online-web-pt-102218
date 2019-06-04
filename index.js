@@ -8,6 +8,6 @@ function writeCards(names, evint){
 }
 
 function countdown(num)
-while (countup > 0) {
-  console.log(countup++);
+while (num > 0) {
+  console.log(num-1);
 }
