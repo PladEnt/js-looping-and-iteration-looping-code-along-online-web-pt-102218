@@ -8,3 +8,6 @@ function writeCards(names, evint){
 }
 
 function 
+while (countup < 10) {
+  console.log(countup++);
+}
